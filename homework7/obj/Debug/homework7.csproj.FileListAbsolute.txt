@@ -1,0 +1,8 @@
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\bin\Debug\homework7.exe.config
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\bin\Debug\homework7.exe
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\bin\Debug\homework7.pdb
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\obj\Debug\homework7.csproj.AssemblyReference.cache
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\obj\Debug\homework7.csproj.SuggestedBindingRedirects.cache
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\obj\Debug\homework7.csproj.CoreCompileInputs.cache
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\obj\Debug\homework7.exe
+C:\Users\worko\OneDrive\Рабочий стол\project\homework6-9\homework7\obj\Debug\homework7.pdb
